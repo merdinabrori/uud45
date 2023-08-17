@@ -30,7 +30,7 @@ if (isset($_POST["submit"])) {
 </head>
 <body>
 <ul class="navbar">
-    <li><a href="../index.php">Home</a></li>
+    <li><a href="index.php">Home</a></li>
     <li><a href="add.php">Tambah</a></li>
     <li><a href="contact.asp">Contact</a></li>
     <li><a href="about.asp">About</a></li>
