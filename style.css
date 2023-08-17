@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+}
+.navbar, .pasal {
+    list-style: none;
+}
+
+.navbar{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.navbar li {
+    float: left;
+}
+
+.navbar a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.navbar a:hover {
+    background-color: #111;
+}
+
+.content {
+    padding: 1em;
+}
+
+.pembahasan {
+    text-align: left;
+    background-color: #333;
+    padding: 0;
+    margin: 1px, 1px, 1px, 1px;
+}
